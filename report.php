@@ -18,11 +18,11 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item"><a class="nav-link" href="#">📊 Dashboard</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">👥 ผู้ใช้งาน (12)</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">🛒 คำสั่งซื้อ (5)</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">📦 สินค้า</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">👥 ผู้ใช้งาน <?php ?></a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">🛒 คำสั่งซื้อ <?php ?> </a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">📦 สินค้า <?php ?> </a></li>
                         <li class="nav-item"><a class="nav-link active" href="#">📈 รายงาน</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">💬 ข้อความ (3)</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">💬 ข้อความ <?php ?> </a></li>
                         <li class="nav-item"><a class="nav-link" href="#">⚙️ ตั้งค่า</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">🚪 ออกจากระบบ</a></li>
                     </ul>
@@ -68,7 +68,7 @@
                                 <h5>💰 -3%</h5>
                                 <h4>฿89,562</h4>
                                 <p class="card-text">รายได้วันนี้</p>
-                                <p class="card-text">เป้าหมาย: ฿100,000 (90%)</p>
+                                <p class="card-text">เป้าหมาย: <?php ?> </p>
                             </div>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                                 <h5>📦 +5%</h5>
                                 <h4>456</h4>
                                 <p class="card-text">สินค้าทั้งหมด</p>
-                                <p class="card-text">สินค้าคงเหลือ: 78%</p>
+                                <p class="card-text">สินค้าคงเหลือ: <?php ?> </p>
                             </div>
                         </div>
                     </div>
@@ -102,11 +102,11 @@
                             <div class="card-body">
                                 <h5 class="card-title">🔔 กิจกรรมล่าสุด</h5>
                                 <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">👤 ผู้ใช้ใหม่สมัครสมาชิก (5 นาทีที่แล้ว)</li>
-                                    <li class="list-group-item">🛍️ คำสั่งซื้อใหม่ #12345 (15 นาทีที่แล้ว)</li>
-                                    <li class="list-group-item">💳 ได้รับชำระเงิน ฿2,500 (30 นาทีที่แล้ว)</li>
-                                    <li class="list-group-item">⭐ รีวิวสินค้าใหม่ 5 ดาว (1 ชั่วโมงที่แล้ว)</li>
-                                    <li class="list-group-item">📦 อัปเดตสต็อกสินค้า (2 ชั่วโมงที่แล้ว)</li>
+                                    <li class="list-group-item">👤 ผู้ใช้ใหม่สมัครสมาชิก (5 นาทีที่แล้ว) <?php ?></li>
+                                    <li class="list-group-item">🛍️ คำสั่งซื้อใหม่ #12345 (15 นาทีที่แล้ว)<?php ?></li>
+                                    <li class="list-group-item">💳 ได้รับชำระเงิน ฿2,500 (30 นาทีที่แล้ว)<?php ?></li>
+                                    <li class="list-group-item">⭐ รีวิวสินค้าใหม่ 5 ดาว (1 ชั่วโมงที่แล้ว)<?php ?></li>
+                                    <li class="list-group-item">📦 อัปเดตสต็อกสินค้า (2 ชั่วโมงที่แล้ว)<?php ?></li>
                                 </ul>
                             </div>
                         </div>
