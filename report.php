@@ -18,11 +18,11 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item"><a class="nav-link" href="#">📊 Dashboard</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">👥 ผู้ใช้งาน <?php ?></a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">🛒 คำสั่งซื้อ <?php ?> </a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">📦 สินค้า <?php ?> </a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">👥 ผู้ใช้งาน </a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">🛒 คำสั่งซื้อ </a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">📦 สินค้า </a></li>
                         <li class="nav-item"><a class="nav-link active" href="#">📈 รายงาน</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">💬 ข้อความ <?php ?> </a></li>
+                        <li class="nav-item"><a class="nav-link" href="#">💬 ข้อความ</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">⚙️ ตั้งค่า</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">🚪 ออกจากระบบ</a></li>
                     </ul>
